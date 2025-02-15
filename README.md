@@ -4,7 +4,6 @@ By solving 150 questions.
 ## Languages Covered:
 - [Learn java - 150 questions](Learn-java)
 
-
 ## Questions 
 1.Determine if a number is Even or Odd - [Java](Learn-java/solutions/Q1/Solution.java)
 
